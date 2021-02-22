@@ -32,6 +32,11 @@
 
 <br />
 
+### 📚 Learning
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" width="26px"/></a> <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" width="22px"/></a> <a href="https://reactjs.org/" title="React"><img src="icons/react.png" width="32px"/></a> <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+
+
+<br />
 ---
 
 
