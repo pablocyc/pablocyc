@@ -21,7 +21,7 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="NODEJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="ARDUINO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="AI" width="26px" src="https://www.flaticon.es/svg/vstatic/svg/552/552222.svg?token=exp=1614023053~hmac=f713dbdeb36d25d4ee3066ab2b15460d" />
+<img align="left" alt="AI" width="26px" src="https://i.pinimg.com/originals/e5/35/6c/e5356c9766b49e62e80a631f821611dd.png" />
 
 [<img align="left" alt="FIGMA" width="18px" src="https://logowiki.net/uploads/logo/f/figma-1.svg" />](figma.com/@pablocardozo)
 
