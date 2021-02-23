@@ -38,7 +38,11 @@
 [<img align="left" src="icons/docker.png" />][docker]
 
 <br />
+
 ---
+
+### 🎧 Spotify Playing
+[<img src="https://spotify-now-bice.vercel.app/api/spotify" width="350"/>]()
 
 
 <!-- LINKS -->
