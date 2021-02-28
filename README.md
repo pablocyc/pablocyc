@@ -28,7 +28,7 @@
 [<img align="left" alt="ARDUINO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />][arduino]
 [<img align="left" alt="AI" width="26px" src="https://i.pinimg.com/originals/e5/35/6c/e5356c9766b49e62e80a631f821611dd.png" />][ai]
 [<img align="left" alt="FIGMA" width="18px" src="https://logowiki.net/uploads/logo/f/figma-1.svg" />][figma]
-[<img align="left" alt="NOTION" width="26px" src="https://logos-download.com/wp-content/uploads/2019/06/Notion_App_Logo-672x700.png" />][notion]
+[<img align="left" alt="NOTION" width="32px" src="icons/notion.png" />][notion]
 
 <br />
 
